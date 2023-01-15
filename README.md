@@ -7,7 +7,7 @@ Ideally, if you plan to merge any additions to this project, you should heavily 
 The type of game engine currently is just going to be a text based adventure game tool kit type thing.  It could eventually become a 3d RPG game engine, but for now it will remain a text based RPG game engine.
 
 
-Currently the coding environment is extremely simple for the most part
+**Currently the coding environment is extremely simple for the most part**
 -Codeblocks IDE
 -Ubuntu is the OS I am running everything on.
 -GCC compiler is the one I am using.(With default settings setup by CodeBlocks IDE)
