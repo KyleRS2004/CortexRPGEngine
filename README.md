@@ -8,6 +8,4 @@ The type of game engine currently is just going to be a text based adventure gam
 
 
 **Currently the coding environment is extremely simple for the most part**
--Codeblocks IDE
--Ubuntu is the OS I am running everything on.
--GCC compiler is the one I am using.(With default settings setup by CodeBlocks IDE)
+I am using the CodeBlocks IDE on Ubuntu. I am using the GCC compiler.(With default settings setup by CodeBlocks IDE)
